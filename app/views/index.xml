@@ -1,0 +1,20 @@
+<Alloy>
+    <TabGroup>
+        <Tab title="tab1">
+            <Window title="win1">
+                <Label text="Below, a 32x32 png" top="10"/>
+                <View backgroundImage="/images/background.png"/>
+            </Window>
+        </Tab>
+        <Tab title="tab2">
+            <Window title="win2">
+                <Label text="label2"/>
+            </Window>
+        </Tab>
+        <Tab title="tab3">
+            <Window title="win3">
+                <Label text="label3"/>
+            </Window>
+        </Tab>
+    </TabGroup>
+</Alloy>

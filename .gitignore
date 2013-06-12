@@ -1,0 +1,30 @@
+# Project specific
+Resources/
+
+# Generated content
+build/
+build.log
+npm-debug.log
+*.class
+*.out
+*.pyc
+*.sassc
+*.sass-cache
+*.sql3
+*.sqlite3
+
+# Filesystem trash
+Thumbs.db
+.Trash/
+._*
+.DS_Store
+.lock
+
+# Other trash
+*.log
+*.old
+*.ori
+*.orig
+*.sublime-project
+*.sublime-workspace
+*.swp
